@@ -14,7 +14,7 @@
 
 ​	(d) Large volume of data is hard to collect at that time.
 
-*Your answer:*
+*Your answer:*c
 
  
 
@@ -26,7 +26,7 @@
 
 ​	(c) Super AI
 
-*Your answer:*
+*Your answer:*b
 
  
 
@@ -40,7 +40,7 @@
 
 ​	(d) PCR test.
 
-*Your answer:*
+*Your answer:*b
 
  
 
@@ -54,7 +54,7 @@
 
 ​	(d) Fuzzy Neural Networks (FNN or Neuro Fuzzy).
 
-*Your answer:*
+*Your answer:*b
 
  
 
@@ -68,7 +68,7 @@
 
 ​	(d) all of the above.
 
-*Your answer:*
+*Your answer:*d
 
 
 
@@ -84,9 +84,10 @@ I.   Match following algorithms to their corresponding categories: (20%)
 | d. hierarchical clustering |                     |
 
 *Your answer:*
-
-
-
+a. -> ca1
+b. -> ca2
+c. -> ca1
+d. -> ca2
 II. Match following leading concepts within each rise of Artificial Intelligence: (15%)
 
 | Leading Concept                            | Rise in AI       |
@@ -96,27 +97,29 @@ II. Match following leading concepts within each rise of Artificial Intelligence
 | c. Expert System                           | 3. Third Rising  |
 
 *Your answer:*
-
-
+a. -> 3
+b. -> 1
+c. -> 2
 
 **C. Essay questions:**
 
 I. Among all categorizations of Artificial Intelligence, which kind of categorization do you think is most useful for understanding Artificial Intelligence (not limited in lecture provided categorization)? Brief explain of reason for selection is required. (14%)
 
  *Your answer:*
-
+the answer : the most useful categorization for understanding AI is base on functionality. because by knowing the functionality, we can understand the concept of AI for implement AI appropriately and correctly
 
 
 II. In each rise and fall of Artificial Intelligence, what role did Domain Knowledge or Expert’s Knowledge play? Is Domain or Expert’s knowledge important for Artificial Intelligence? (16%)
 
  *Your answer:*
+the answer : In my opinion, domain knowledge and expert knowledge are very important in AI because domain knowledge plays a very important role in the programming process and expert knowledge plays a role in The problem-solving process being described and then analyzed to produce a structured model.
 
 
 
 III. In which AI application are you most interested? (10%)
 
 *Your answer:*
-
+the answer : AI applications that I am most interested in are health applications such as Diabetes from Retinal Fundus and image applications on MRI because these applications really help humans to save people.
 
 
 ***Good Luck!!!***
